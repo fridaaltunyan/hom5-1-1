@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_for_decreasing">button_for_decreasing</string>
+    <string name="_2">2</string>
+    <string name="_0">0</string>
+    <string name="increasing">increasing</string>
+    <string name="go_to_second_activity">go_to_second_activity</string>
+    <string name="go_back">Go back</string>
+    <string name="remove_activity_and_go_back">Remove activity and go back</string>
+</resources>
